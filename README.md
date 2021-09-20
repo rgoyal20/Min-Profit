@@ -1,7 +1,7 @@
 # Startup Profit Prediction: 
 
 ## Demo
-Link: [https://startupprofits.herokuapp.com/](https://startupprofits.herokuapp.com/)
+Link: [bit.ly/minprofit/](bit.ly/minprofit)
 
 ## Input
 [![](https://github.com/anmoldeep7/startupprofit/blob/main/Input.png)](https://startupprofits.herokuapp.com/)
